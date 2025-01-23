@@ -1,6 +1,6 @@
 const telegramBot = require(`node-telegram-bot-api`);
 
-const token = '7796792998:AAH1ZbTJOwUZmEC379e0JDdenHGW3HptA98';
+const token = '7796792998:AAENvP0QJcop2EZJ11cAiic8AATxrVgpg0Y';
 
 // инициализация бота с указанным ботом и включает режим polling.
 // polling - процесс, при котором бот постоянно проверяет сервер telegram на наличие новых сообщений
